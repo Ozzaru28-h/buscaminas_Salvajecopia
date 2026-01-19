@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="buscaminas_Salvaje_Ejecutable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/buscaminas_Salvaje_Ejecutable_jar</output-path>
+    <root id="archive" name="buscaminas_Salvaje.jar">
+      <element id="module-output" name="buscaminas_Salvaje" />
+    </root>
+  </artifact>
+</component>
